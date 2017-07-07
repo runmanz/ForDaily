@@ -1,11 +1,11 @@
 <?php
- $params = ....
+ $params = ...,
  
  return [
-    'id' => ..,
+    'id' => ...,
     'bathPath' ...,
     'bootstrap' ...,
-    'controllerNamespace' ...
+    'controllerNamespace' ...,
     'components' => [
         'request' ...,
         'cache' ...,
