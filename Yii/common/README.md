@@ -1,6 +1,5 @@
 # project Namespace 
 ```
-if (Unkown Class *** Namespace missing) then
-  Namespace change to app\***
-fi
+models              namespace app\models;
+controllers         namespace app_name\controllers
 ```
